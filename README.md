@@ -1,1 +1,1 @@
-# Spamming-Bot-
+# SpamBot
